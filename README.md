@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Olá! Eu sou o Gustavo Bueno
+Sou estudante de Analise e desenvolvimento de sistemas na universidade Cruzeiro do Sul, apaixonado por criar soluções usando **React** e **Node.js**.  
 
-<!--
-**gustavoblima919/gustavoblima919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tecnologias Dominadas por mim
+Nenhuma ainda, mas assim que tiver eu coloco uma :)
 
-Here are some ideas to get you started:
+### 🌟 Projetos em Destaque
+- Controle de despesas, um sistema simples mas funcional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Me encontre no www.linkedin.com/in/gustavo-bueno-7a065a221
+ E no https://github.com/gustavoblima919
+
+Obrigado Por visitar meu perfil, assim que eu estiver mais avançado eu irei atualizar. :)
